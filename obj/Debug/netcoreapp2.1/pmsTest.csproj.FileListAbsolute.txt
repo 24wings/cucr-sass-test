@@ -1,0 +1,14 @@
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.csprojAssemblyReference.cache
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.csproj.CoreCompileInputs.cache
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.AssemblyInfoInputs.cache
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.AssemblyInfo.cs
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/pmsTest.deps.json
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/pmsTest.runtimeconfig.json
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/pmsTest.runtimeconfig.dev.json
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/pmsTest.dll
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/pmsTest.pdb
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.dll
+/Users/yangjie/workspace/cucr/pmsTest/obj/Debug/netcoreapp2.1/pmsTest.pdb
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/yangjie/workspace/cucr/pmsTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
